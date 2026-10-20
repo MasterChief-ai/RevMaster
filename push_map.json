@@ -1,0 +1,1145 @@
+{
+  "batch": "rra-v1",
+  "customers": {
+    "john-stewart": {
+      "contact_id": "886823389407",
+      "deal_id": "525431724278",
+      "activities": [
+        {
+          "object": "calls",
+          "id": "525943276752",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525944591558",
+          "direction": "outbound",
+          "opens": 6
+        },
+        {
+          "object": "emails",
+          "id": "525488766161",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "priya-raman": {
+      "contact_id": "886822805729",
+      "deal_id": "525446023387",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525492363450",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525489460464",
+          "direction": "outbound",
+          "opens": 4
+        },
+        {
+          "object": "emails",
+          "id": "525490803902",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "marcus-bell": {
+      "contact_id": "886789562610",
+      "deal_id": "525445770453",
+      "activities": [
+        {
+          "object": "calls",
+          "id": "525943880906",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525947397349",
+          "direction": "outbound",
+          "opens": 9
+        },
+        {
+          "object": "emails",
+          "id": "525490940130",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "elena-voss": {
+      "contact_id": "886787906770",
+      "deal_id": "525793644739",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525492363475",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525944450278",
+          "direction": "outbound",
+          "opens": 2
+        },
+        {
+          "object": "emails",
+          "id": "525944598732",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "tom-whitaker": {
+      "contact_id": "886796469459",
+      "deal_id": "525425302740",
+      "activities": [
+        {
+          "object": "calls",
+          "id": "525489558764",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525948093651",
+          "direction": "outbound",
+          "opens": 5
+        },
+        {
+          "object": "emails",
+          "id": "525943596271",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "sofia-marchetti": {
+      "contact_id": "886787907792",
+      "deal_id": "525445607637",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525490103490",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525449354432",
+          "direction": "outbound",
+          "opens": 7
+        },
+        {
+          "object": "emails",
+          "id": "525943596281",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "omar-haddad": {
+      "contact_id": "886663172338",
+      "deal_id": "525754923216",
+      "activities": [
+        {
+          "object": "calls",
+          "id": "525483741391",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525942188262",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "maria-alvarez": {
+      "contact_id": "886789371068",
+      "deal_id": "525793784051",
+      "activities": [
+        {
+          "object": "emails",
+          "id": "525944599748",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525488624836",
+          "direction": "outbound",
+          "opens": 3
+        }
+      ]
+    },
+    "linda-park": {
+      "contact_id": "886796052706",
+      "deal_id": "525793399025",
+      "activities": [
+        {
+          "object": "emails",
+          "id": "525490531515",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525490531518",
+          "direction": "outbound",
+          "opens": 4
+        }
+      ]
+    },
+    "greg-anders": {
+      "contact_id": "886799896775",
+      "deal_id": "525445772497",
+      "activities": [
+        {
+          "object": "calls",
+          "id": "525490941170",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525489851611",
+          "direction": "outbound",
+          "opens": 2
+        }
+      ]
+    },
+    "hannah-cole": {
+      "contact_id": "886831585488",
+      "deal_id": "525793644755",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525948241082",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525489851620",
+          "direction": "outbound",
+          "opens": 5
+        }
+      ]
+    },
+    "raj-mehta": {
+      "contact_id": "886831585520",
+      "deal_id": "525445352666",
+      "activities": [
+        {
+          "object": "emails",
+          "id": "525490707664",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525941975289",
+          "direction": "outbound",
+          "opens": 3
+        }
+      ]
+    },
+    "carla-jimenez": {
+      "contact_id": "886803188954",
+      "deal_id": "525431729350",
+      "activities": [
+        {
+          "object": "calls",
+          "id": "525943598280",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525941976261",
+          "direction": "outbound",
+          "opens": 6
+        },
+        {
+          "object": "emails",
+          "id": "525943287999",
+          "direction": "outbound",
+          "opens": 0
+        }
+      ]
+    },
+    "brian-foster": {
+      "contact_id": "886828637423",
+      "deal_id": "525793210555",
+      "activities": [
+        {
+          "object": "emails",
+          "id": "525944452320",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "tasks",
+          "id": "525937871068",
+          "direction": "outbound",
+          "opens": 0
+        }
+      ]
+    },
+    "nina-patel": {
+      "contact_id": "886796055746",
+      "deal_id": "525793091826",
+      "activities": [
+        {
+          "object": "calls",
+          "id": "525943883971",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "tasks",
+          "id": "525490942193",
+          "direction": "outbound",
+          "opens": 0
+        }
+      ]
+    },
+    "kevin-obrien": {
+      "contact_id": "886831587567",
+      "deal_id": "525793401071",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525943288035",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525452117179",
+          "direction": "outbound",
+          "opens": 3
+        },
+        {
+          "object": "emails",
+          "id": "525491064051",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "tasks",
+          "id": "525488625896",
+          "direction": "outbound",
+          "opens": 0
+        }
+      ]
+    },
+    "dana-whitfield": {
+      "contact_id": "886798634202",
+      "deal_id": "525448106221",
+      "activities": [
+        {
+          "object": "emails",
+          "id": "525940490474",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "tasks",
+          "id": "525491479774",
+          "direction": "outbound",
+          "opens": 0
+        }
+      ]
+    },
+    "samir-qureshi": {
+      "contact_id": "886828337394",
+      "deal_id": "525792760010",
+      "activities": [
+        {
+          "object": "calls",
+          "id": "525492218044",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "tasks",
+          "id": "525943599322",
+          "direction": "outbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525489979594",
+          "direction": "outbound",
+          "opens": 1
+        }
+      ]
+    },
+    "david-chen": {
+      "contact_id": "886797319378",
+      "deal_id": "525445983474",
+      "activities": [
+        {
+          "object": "emails",
+          "id": "525948025053",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525941977321",
+          "direction": "outbound",
+          "opens": 2
+        },
+        {
+          "object": "emails",
+          "id": "525491065053",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "angela-ruiz": {
+      "contact_id": "886825353459",
+      "deal_id": "525792760015",
+      "activities": [
+        {
+          "object": "emails",
+          "id": "525947568328",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525944601831",
+          "direction": "outbound",
+          "opens": 2
+        },
+        {
+          "object": "emails",
+          "id": "525948564670",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525490709707",
+          "direction": "outbound",
+          "opens": 0
+        }
+      ]
+    },
+    "peter-lindqvist": {
+      "contact_id": "886663176438",
+      "deal_id": "525790084317",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525937872114",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "calls",
+          "id": "525943760087",
+          "direction": "outbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525947763900",
+          "direction": "outbound",
+          "opens": 3
+        },
+        {
+          "object": "emails",
+          "id": "525943171306",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "maya-thompson": {
+      "contact_id": "886800315618",
+      "deal_id": "525792997582",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525942887632",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525490808009",
+          "direction": "outbound",
+          "opens": 4
+        },
+        {
+          "object": "emails",
+          "id": "525943760113",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525483744490",
+          "direction": "outbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525489465542",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525943761087",
+          "direction": "outbound",
+          "opens": 0
+        }
+      ]
+    },
+    "chris-daniels": {
+      "contact_id": "886774585548",
+      "deal_id": "525792810175",
+      "activities": [
+        {
+          "object": "calls",
+          "id": "525490386134",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525943600373",
+          "direction": "outbound",
+          "opens": 2
+        },
+        {
+          "object": "emails",
+          "id": "525943001297",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "isabel-moreau": {
+      "contact_id": "886833223913",
+      "deal_id": "525447887064",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525944271034",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525489062094",
+          "direction": "outbound",
+          "opens": 3
+        },
+        {
+          "object": "emails",
+          "id": "525947570421",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525490710756",
+          "direction": "outbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525948565703",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525490944237",
+          "direction": "outbound",
+          "opens": 2
+        },
+        {
+          "object": "emails",
+          "id": "525490809031",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "trevor-nash": {
+      "contact_id": "886788457704",
+      "deal_id": "525445608653",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525489730770",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "calls",
+          "id": "525943002315",
+          "direction": "outbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525937874129",
+          "direction": "outbound",
+          "opens": 5
+        },
+        {
+          "object": "emails",
+          "id": "525492221131",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "fiona-gallagher": {
+      "contact_id": "886791409903",
+      "deal_id": "525754924227",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525489566932",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525948027126",
+          "direction": "outbound",
+          "opens": 2
+        },
+        {
+          "object": "emails",
+          "id": "525452120307",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525937875136",
+          "direction": "outbound",
+          "opens": 2
+        }
+      ]
+    },
+    "hector-salazar": {
+      "contact_id": "886798636233",
+      "deal_id": "525793564912",
+      "activities": [
+        {
+          "object": "calls",
+          "id": "525489467585",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525492222154",
+          "direction": "outbound",
+          "opens": 2
+        },
+        {
+          "object": "emails",
+          "id": "525943293124",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525948566748",
+          "direction": "outbound",
+          "opens": 3
+        },
+        {
+          "object": "emails",
+          "id": "525942889707",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "yuki-tanaka": {
+      "contact_id": "886663179467",
+      "deal_id": "525434569968",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525483748548",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525947572465",
+          "direction": "outbound",
+          "opens": 3
+        },
+        {
+          "object": "calls",
+          "id": "525942890684",
+          "direction": "outbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525490712763",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "walter-briggs": {
+      "contact_id": "886774586604",
+      "deal_id": "525445773525",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525948248284",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525452122360",
+          "direction": "outbound",
+          "opens": 2
+        },
+        {
+          "object": "emails",
+          "id": "525489858783",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525942195443",
+          "direction": "outbound",
+          "opens": 1
+        },
+        {
+          "object": "emails",
+          "id": "525491917025",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525489302752",
+          "direction": "outbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525489858794",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "zoe-kim": {
+      "contact_id": "886787911894",
+      "deal_id": "525793040608",
+      "activities": [
+        {
+          "object": "emails",
+          "id": "525490811115",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525947406529",
+          "direction": "outbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525944459481",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "aaron-blake": {
+      "contact_id": "886833225946",
+      "deal_id": "525448017133",
+      "activities": [
+        {
+          "object": "emails",
+          "id": "525489859793",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525937877208",
+          "direction": "outbound",
+          "opens": 2
+        }
+      ]
+    },
+    "natalie-ford": {
+      "contact_id": "886833225952",
+      "deal_id": "525790085308",
+      "activities": [
+        {
+          "object": "calls",
+          "id": "525948100846",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525943295214",
+          "direction": "outbound",
+          "opens": 1
+        }
+      ]
+    },
+    "derek-osei": {
+      "contact_id": "886796058849",
+      "deal_id": "525793842378",
+      "activities": [
+        {
+          "object": "emails",
+          "id": "525941983467",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525944461505",
+          "direction": "outbound",
+          "opens": 3
+        }
+      ]
+    },
+    "julia-bergman": {
+      "contact_id": "886822954199",
+      "deal_id": "525792923875",
+      "activities": [
+        {
+          "object": "emails",
+          "id": "525490287828",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525947574521",
+          "direction": "outbound",
+          "opens": 4
+        }
+      ]
+    },
+    "victor-lam": {
+      "contact_id": "886823644383",
+      "deal_id": "525792724202",
+      "activities": [
+        {
+          "object": "calls",
+          "id": "525947575490",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525491621089",
+          "direction": "outbound",
+          "opens": 2
+        }
+      ]
+    },
+    "beth-carroway": {
+      "contact_id": "886791273697",
+      "deal_id": "525447951555",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525943296238",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525489733818",
+          "direction": "outbound",
+          "opens": 0
+        }
+      ]
+    },
+    "gordon-pryce": {
+      "contact_id": "886831776979",
+      "deal_id": "525792458987",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525940495601",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525489068245",
+          "direction": "outbound",
+          "opens": 3
+        },
+        {
+          "object": "emails",
+          "id": "525944462539",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "ingrid-sol": {
+      "contact_id": "886796059870",
+      "deal_id": "525793842401",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525944609997",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525489068273",
+          "direction": "outbound",
+          "opens": 5
+        },
+        {
+          "object": "emails",
+          "id": "525452126455",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "leon-marsh": {
+      "contact_id": "886828489950",
+      "deal_id": "525447951571",
+      "activities": [
+        {
+          "object": "calls",
+          "id": "525488898278",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525491485915",
+          "direction": "outbound",
+          "opens": 1
+        },
+        {
+          "object": "emails",
+          "id": "525491485921",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525944463601",
+          "direction": "outbound",
+          "opens": 0
+        }
+      ]
+    },
+    "rosa-delgado": {
+      "contact_id": "886774588620",
+      "deal_id": "525792861414",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525489307865",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525944464598",
+          "direction": "outbound",
+          "opens": 2
+        },
+        {
+          "object": "emails",
+          "id": "525943895256",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525492228311",
+          "direction": "outbound",
+          "opens": 0
+        }
+      ]
+    },
+    "franklin-doyle": {
+      "contact_id": "886791275756",
+      "deal_id": "525793649887",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525490115824",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "mei-zhao": {
+      "contact_id": "886825359547",
+      "deal_id": "525790085336",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525489072345",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "anders-holm": {
+      "contact_id": "886799640792",
+      "deal_id": "525434573019",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525948256476",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "patrick-sheehan": {
+      "contact_id": "886822825193",
+      "deal_id": "525445775591",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525944466670",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525944615101",
+          "direction": "outbound",
+          "opens": 2
+        }
+      ]
+    },
+    "camille-durand": {
+      "contact_id": "886803198144",
+      "deal_id": "525792999649",
+      "activities": [
+        {
+          "object": "notes",
+          "id": "525449365718",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525948575945",
+          "direction": "outbound",
+          "opens": 1
+        }
+      ]
+    },
+    "wes-kowalski": {
+      "contact_id": "886823263462",
+      "deal_id": "525793844452",
+      "activities": [
+        {
+          "object": "emails",
+          "id": "525944467687",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "gabrielle-fontaine": {
+      "contact_id": "886663184604",
+      "deal_id": "525790085344",
+      "activities": [
+        {
+          "object": "emails",
+          "id": "525947582659",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "raymond-teller": {
+      "contact_id": "886823412985",
+      "deal_id": "525448018129",
+      "activities": [
+        {
+          "object": "calls",
+          "id": "525944616179",
+          "direction": "inbound",
+          "opens": 0
+        }
+      ]
+    },
+    "helen-carver": {
+      "contact_id": "886800027866",
+      "deal_id": "525793468665",
+      "activities": [
+        {
+          "object": "emails",
+          "id": "525490820320",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525483757809",
+          "direction": "outbound",
+          "opens": 2
+        }
+      ]
+    },
+    "isaac-rowe": {
+      "contact_id": "886805531866",
+      "deal_id": "525447890123",
+      "activities": [
+        {
+          "object": "emails",
+          "id": "525942900977",
+          "direction": "inbound",
+          "opens": 0
+        },
+        {
+          "object": "emails",
+          "id": "525947415760",
+          "direction": "outbound",
+          "opens": 1
+        }
+      ]
+    }
+  }
+}
