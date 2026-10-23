@@ -54,9 +54,10 @@ US? "yes" if it asks a question, makes a request (for example for a brochure, \
 a call or a viewing), or is an inquiry or form submission that expects US to \
 respond. "no" if it expects nothing from US (for example a plain thank-you or \
 acknowledgment). "unclear" if you cannot tell.
-2. conversation_closed: true if either side has ended the conversation (the \
-customer declined or asked US to stop, or US sent a closing message and \
-nothing is left open). Otherwise false.
+2. conversation_closed: true only if a message in the thread explicitly ends \
+the conversation: the CUSTOMER declined or asked US to stop, or US wrote a \
+final goodbye or closing message. A message that simply waits for the other \
+side to respond is not closing the conversation. Otherwise false.
 3. buying_signals: list every one that clearly appears, using only these \
 names: financing_question, deadline_pressure, asked_for_documents, \
 price_discussion, ready_to_move. Use an empty list if none.
